@@ -8,7 +8,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* Healthcare App Design System */
+    /* Recovr.ai App Design System */
     --background: 210 20% 98%;
     --foreground: 210 15% 15%;
 
@@ -30,7 +30,7 @@ All colors MUST be HSL.
     --secondary-light: 150 30% 90%;
     --secondary-dark: 150 50% 45%;
 
-    /* Healthcare Accent Colors */
+    /* Recovr.ai Accent Colors */
     --accent: 185 80% 60%;
     --accent-foreground: 0 0% 100%;
     --accent-light: 185 60% 90%;
@@ -53,13 +53,13 @@ All colors MUST be HSL.
     --input: 210 20% 96%;
     --ring: 210 100% 45%;
 
-    /* Healthcare Gradients */
+    /* Recovr.ai Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-dark)));
     --gradient-secondary: linear-gradient(135deg, hsl(var(--secondary)), hsl(var(--secondary-dark)));
     --gradient-hero: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
     --gradient-card: linear-gradient(145deg, hsl(var(--card)), hsl(var(--muted)));
 
-    /* Healthcare Shadows */
+    /* Recovr.ai Shadows */
     --shadow-card: 0 4px 16px -4px hsl(var(--primary) / 0.1);
     --shadow-button: 0 2px 8px -2px hsl(var(--primary) / 0.2);
     --shadow-floating: 0 8px 32px -8px hsl(var(--primary) / 0.15);

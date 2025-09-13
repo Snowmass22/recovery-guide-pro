@@ -15,9 +15,9 @@ export const HealthcareHeader = () => {
                 <Heart className="h-8 w-8" />
               </div>
               <h1 className="text-4xl lg:text-5xl font-bold">
-                HealthCare
+                Recovr.ai
                 <span className="block text-2xl lg:text-3xl font-medium text-primary-foreground/90">
-                  Recovery Assistant
+                  AI Recovery Assistant
                 </span>
               </h1>
             </div>
@@ -59,7 +59,7 @@ export const HealthcareHeader = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-floating">
               <img 
                 src={heroImage} 
-                alt="Healthcare app interface" 
+                alt="Recovr.ai app interface" 
                 className="w-full h-auto"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent" />
